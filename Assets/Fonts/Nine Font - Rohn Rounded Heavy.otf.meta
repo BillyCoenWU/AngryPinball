@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 56c4305e13c9347448285273a17321c8
+timeCreated: 1505239418
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rohn Rounded
+  fontNames:
+  - Rohn Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47204848aac604a46939fa8c483087d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
